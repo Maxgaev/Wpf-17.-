@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfЗадание_17.Разработка_элем_упр.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfЗадание_17.Разработка_элем_упр"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
